@@ -10,8 +10,6 @@ This lab demonstrates:
 - Shared header and footer using `include`
 
 ## Screenshots
-# CS471 - Lab 4
-Screenshots for all tasks:
 
 ### Task 1
 ![Task1 Home](screenshots/task1-Home.png)
@@ -28,6 +26,7 @@ Screenshots for all tasks:
 ### Task 3
 ![Task3 Check](screenshots/task3-Check.png)
 ![Task3 Validation](screenshots/task3-chak.png)
+
 ### Task 4
 ![Task4 Home](screenshots/task4-home.png)
 ![Task4 About](screenshots/task4-about.png)
